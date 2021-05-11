@@ -1,2 +1,3 @@
 # best-repo-ever
-#Thanks for all the work
+<<<<<<< HEAD
+#Change of a new branch 2
